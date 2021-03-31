@@ -1,6 +1,6 @@
 ## CAKE SHOPPING CART ##
 
-## VIEW DEMO ##   [](https://bootsrap-shopping-cart.netlify.app/) 
+ [VIEW DEMO](https://bootsrap-shopping-cart.netlify.app/) 
 
 * USED TOOLS
               * HTML,CSS,JS
